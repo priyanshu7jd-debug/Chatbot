@@ -1,0 +1,19 @@
+id,ticket id,category,priority,questions,response,cleaned_questions
+1,TCK-93810,Account Inquiry,Medium,What is my current account balance?,"To check your balance, please log in to your secure portal or reply with your 4-digit account pin.",current account balance
+2,TCK-24592,Account Inquiry,Medium,How much money do I have left in my savings?,"To check your balance, please log in to your secure portal or reply with your 4-digit account pin.",much money left savings
+3,TCK-13278,Transfers,High,I want to send money to someone,"To transfer money, please provide the recipient's account number, routing number, and the amount.",want send money someone
+4,TCK-46048,Transfers,High,How do I wire funds to a different account?,"To transfer money, please provide the recipient's account number, routing number, and the amount.",wire funds different account
+5,TCK-42098,Card Services,Urgent,I lost my debit card help,I can help lock your card. Please confirm the last 4 digits of the card you want to block immediately.,lost debit card help
+6,TCK-39256,Card Services,Urgent,My card was stolen,I can help lock your card. Please confirm the last 4 digits of the card you want to block immediately.,card stolen
+7,TCK-28289,Loans,Low,What are your current mortgage interest rates?,"Our current loan and mortgage rates start at 4.5% APR, subject to credit approval. Would you like to speak to a loan officer?",current mortgage interest rates
+8,TCK-23434,Loans,Low,How do I apply for a personal loan?,"Our current loan and mortgage rates start at 4.5% APR, subject to credit approval. Would you like to speak to a loan officer?",apply personal loan
+9,TCK-98696,Account Inquiry,Low,Where is the closest ATM?,"Please share your current zip code or location, and I will find the nearest ATM or branch for you.",closest atm
+10,TCK-81482,Technical Support,High,I forgot my online banking password,You can reset your password by clicking 'Forgot Password' on the login screen or by verifying your identity via SMS OTP.,forgot online banking password
+11,TCK-21395,Technical Support,High,Can't log into my mobile app,You can reset your password by clicking 'Forgot Password' on the login screen or by verifying your identity via SMS OTP.,cant log mobile app
+12,TCK-87397,Card Services,Medium,How do I activate my new credit card?,You can activate your card in the mobile app under 'Card Management' or by calling the number on the back of the card.,activate new credit card
+13,TCK-65302,Card Services,Medium,Activate debit card,You can activate your card in the mobile app under 'Card Management' or by calling the number on the back of the card.,activate debit card
+14,TCK-14165,Account Inquiry,Medium,Can I get a copy of my last statement?,"Yes, you can download your recent statements from the 'E-Statements' section in your online banking portal.",get copy last statement
+15,TCK-13905,Account Inquiry,Medium,Show my bank statement,"Yes, you can download your recent statements from the 'E-Statements' section in your online banking portal.",show bank statement
+16,TCK-22280,Technical Support,Medium,The app keeps crashing when I open it,"I'm sorry to hear that. Please ensure you have the latest version installed, or try reinstalling the app.",app keeps crashing open
+17,TCK-38657,Transfers,High,Reverse a transaction,"To dispute or reverse a transaction, please navigate to the transaction details and select 'Dispute Charge'.",reverse transaction
+18,TCK-40495,Transfers,High,I didn't make this purchase,"To dispute or reverse a transaction, please navigate to the transaction details and select 'Dispute Charge'.",didnt make purchase
